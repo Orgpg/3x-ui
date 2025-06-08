@@ -1,6 +1,6 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./images/3xui.png">
+    <source media="(prefers-color-scheme: dark)" srcset="./media/3xui.png">
     <img alt="3x-ui" src="./images/3xui.png">
   </picture>
 </p>
